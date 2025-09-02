@@ -9,6 +9,8 @@ This is a personal portfolio website built with **React + TailwindCSS**, designe
 Once deployed, it will be available at:  
 `https://<your-username>.github.io/<repo-name>/`
 
+'https://anudeep-s.github.io/portfolio/'
+
 ---
 
 ## 📦 Features
